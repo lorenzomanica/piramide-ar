@@ -1,4 +1,4 @@
-package com.example.piramidear
+package br.pro.lmit.piramidear
 
 import android.os.Bundle
 import android.os.Handler

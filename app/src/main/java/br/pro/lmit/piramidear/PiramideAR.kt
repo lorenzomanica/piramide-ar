@@ -1,4 +1,4 @@
-package com.example.piramidear
+package br.pro.lmit.piramidear
 
 import android.app.Application
 import org.artoolkitx.arx.arxj.assets.AssetHelper

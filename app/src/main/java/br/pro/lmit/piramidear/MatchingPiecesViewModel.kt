@@ -1,4 +1,4 @@
-package com.example.piramidear
+package br.pro.lmit.piramidear
 
 import androidx.databinding.ObservableField
 import androidx.lifecycle.ViewModel

@@ -1,4 +1,4 @@
-package com.example.piramidear;
+package br.pro.lmit.piramidear;
 
 import android.view.MotionEvent;
 import android.view.View;

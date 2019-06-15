@@ -1,4 +1,4 @@
-package com.example.piramidear
+package br.pro.lmit.piramidear
 
 import android.opengl.GLES20
 import org.artoolkitx.arx.arxj.ARController
