@@ -16,7 +16,7 @@ allprojects {
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.arpuzzlemasha"
+        applicationId "br.pro.lmit.piramidear"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
